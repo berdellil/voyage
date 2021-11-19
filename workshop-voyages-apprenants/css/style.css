@@ -1,0 +1,52 @@
+@import url('https://fonts.google.com/specimen/Caveat+Brush ');
+
+body {
+   
+
+}
+/*-----------------HEARDER----------------------------------*/
+header{
+    background-color:#93FFE8 ;
+    position:relative;
+}
+th1{
+    
+    
+}
+ul{
+    margin:30;
+    font-size: 30;
+    color: black;
+    margin-left: 80%;
+    
+
+    text-transform: uppercase;
+    font-family: 'Caveat brush',cursive;
+
+}
+nav{
+    background-color: #01DFD7 ;
+    height: 50px;
+}
+section{
+    background:linear-gradient(  rgb(191,129,148) , rgb(86,166,241) );
+    height:550px;
+    border-radius: 10px;
+    margin-left: 29%;
+}
+.contenair{
+    align-items: center;
+    border: 2 solid;
+    height: 25em;
+    width: 90em;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+   
+}
+ h2 , p{
+   text-align: center;
+
+
+
+}
